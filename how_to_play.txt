@@ -1,0 +1,55 @@
+           NYMPHIAD — HOW TO PLAY
+
+GOAL
+----
+Each level has a glowing coin. Reach it
+to advance to the next level. Beat all
+8 levels to win!
+
+Your time is recorded from level 1.
+Deaths pause the clock - only active
+play time counts. Try for a fast time!
+
+
+CONTROLS
+--------
+Move        A / D   or   Left / Right
+Jump        W       or   Up
+Grab box    Hold X near a box (to push or pull)
+Restart     R
+
+
+HAZARDS
+-------
+Spikes    - Triggered when you get close.
+            Back away to make them retract.
+
+Crusher   - Drops from the ceiling when
+            you walk beneath it. Keep moving!
+
+
+MECHANICS
+---------
+Wrapping  - Walk off one edge of the screen
+            and you'll appear on the other side.
+            This applies to boxes too!
+
+Switches  - Arrow icons on the wall. Walk into
+            one to shift the camera and reveal
+            a new area of the level.
+
+Boxes     - Hold X near a box to grab and drag
+            it. Use boxes to reach higher ground
+            or block hazards.
+
+
+TIPS
+----
+- You can carry a box through a screen wrap.
+- Spikes retract if you move away in time.
+- The crusher returns to the ceiling after
+  a short delay - wait it out if needed.
+- Dying doesn't reset your level progress,
+  only the current room resets.
+
+                Good luck!

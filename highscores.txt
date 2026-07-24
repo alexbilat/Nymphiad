@@ -1,0 +1,6 @@
+maria,95.20
+maria2,109.15
+ed,93.72
+alex,79.28
+zawad,89.18
+zawadi,727.86
