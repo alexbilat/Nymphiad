@@ -4,6 +4,8 @@ Nymphiad is a Python platformer inspired by the original Nymphiad game (credits 
 
 I recreated the game independently. The gameplay implementation, game logic, movement, collision system, and other code were written by me. The graphics and level design were taken from the original game.
 
+
+
 NYMPHIAD — HOW TO PLAY
 
 GOAL
@@ -19,3 +21,7 @@ Move        A / D   or   Left / Right
 Jump        W       or   Up
 Grab box    Hold X near a box (to push or pull)
 Restart     R
+
+
+NOTE
+To run this game, please run 'pip install pygame-ce' and 'pip install pytmx'
