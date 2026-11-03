@@ -2,7 +2,7 @@
 _author_ = "Alex Bilat"
 _date_ = "2025/12/04"
 _version_ = "1.0"
-_filename_ = "settings.py"
+_filename_ = "MainMenu.py"
 _description_ = "Main Menu Class"
 
 from settings import *
