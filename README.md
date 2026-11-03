@@ -23,5 +23,5 @@ Grab box    Hold X near a box (to push or pull)
 Restart     R
 
 
-NOTE
+NOTE:
 To run this game, please run 'pip install pygame-ce' and 'pip install pytmx'
