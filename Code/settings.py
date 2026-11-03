@@ -1,7 +1,7 @@
 # Header
 _author_ = "Alex Bilat"
 _date_ = "2025/12/04"
-_version_ = "1.0"
+_version_ = "1.0.0"
 _filename_ = "settings.py"
 _description_ = "Settings folder for game"
 
