@@ -24,4 +24,4 @@ Restart     R
 
 
 NOTE:
-To run this game, please run 'pip install pygame-ce' and 'pip install pytmx'
+To run this game, run 'pip install -r requirements'
